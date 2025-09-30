@@ -9,7 +9,7 @@
 - 🛠️ He trabajado en proyectos con **arquitecturas monolíticas, Prisma, GraphQL y tRPC**.  
 - 🤝 Experiencia en equipos ágiles bajo metodologías **Scrum y Kanban**.  
 - 🌱 Enfocado en crear **soluciones robustas y orientadas al usuario**.
-- 🛫 ADquiriendo conocimientos en **desarrollo movil nativo** en **Android**
+- 🛫 Adquiriendo conocimientos en **desarrollo movil nativo** en **Android**
 
 ---
 
