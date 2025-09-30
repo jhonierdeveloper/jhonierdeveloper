@@ -1,8 +1,5 @@
 # 👋 Hola, soy Jhonier Andrés Mosquera  
 
-💻 **Frontend Developer** con +2 años de experiencia construyendo interfaces modernas, escalables y centradas en el usuario.  
-Actualmente estudiante de **Ingeniería de Sistemas en el ITM** y apasionado por el aprendizaje constante.  
-
 ![](https://res.cloudinary.com/dk9ktxdpj/image/upload/v1759200264/Portafolio/eb50875a68b04b0480fa929af2c7547c_bcacmm.gif)
 
 ---
@@ -11,7 +8,8 @@ Actualmente estudiante de **Ingeniería de Sistemas en el ITM** y apasionado por
 - 🎯 Experiencia en desarrollo con **React.js, Angular, Next.js y TypeScript**.  
 - 🛠️ He trabajado en proyectos con **arquitecturas monolíticas, Prisma, GraphQL y tRPC**.  
 - 🤝 Experiencia en equipos ágiles bajo metodologías **Scrum y Kanban**.  
-- 🌱 Enfocado en crear **soluciones robustas y orientadas al usuario**.  
+- 🌱 Enfocado en crear **soluciones robustas y orientadas al usuario**.
+- 🛫 ADquiriendo conocimientos en **desarrollo movil nativo** en **Android**
 
 ---
 
