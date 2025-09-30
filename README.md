@@ -3,6 +3,8 @@
 💻 **Frontend Developer** con +2 años de experiencia construyendo interfaces modernas, escalables y centradas en el usuario.  
 Actualmente estudiante de **Ingeniería de Sistemas en el ITM** y apasionado por el aprendizaje constante.  
 
+![](https://res.cloudinary.com/dk9ktxdpj/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1759200264/Portafolio/eb50875a68b04b0480fa929af2c7547c_bcacmm.gif)
+
 ---
 
 ## 🚀 Sobre mí  
